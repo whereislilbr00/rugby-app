@@ -1,4 +1,4 @@
-Rugby App
+RUGBY APP
 The Rugby App is a command-line interface (CLI) application built with Python, utilizing SQLAlchemy for database operations. It allows users to manage rugby players through commands such as adding players and listing players. This README provides an overview of the project, instructions for setup, usage, and contribution guidelines.
 
 Features
